@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1609629538 source:c:\users\muhir\videos\lcs\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"List.h"
+
+1609629780 source:c:\users\muhir\videos\lcs\src\list.cpp
+	"List.h"
+
+1598934143 c:\users\muhir\videos\lcs\include\list.h
+	"Node.h"
+	<iostream>
+
+1598934001 source:c:\users\muhir\videos\lcs\src\node.cpp
+	"Node.h"
+
+1598934021 c:\users\muhir\videos\lcs\include\node.h
+	<ostream>
+	"List.h"
+
+1599188926 source:c:\users\muhir\videos\lcs\src\tree.cpp
+	"Tree.h"
+
+1599188926 c:\users\muhir\videos\lcs\include\tree.h
+	"TreeNode.h"
+
+1599188925 source:c:\users\muhir\videos\lcs\src\treenode.cpp
+	"TreeNode.h"
+
+1599188925 c:\users\muhir\videos\lcs\include\treenode.h
+
